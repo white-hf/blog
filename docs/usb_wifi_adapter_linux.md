@@ -1,5 +1,5 @@
 layout: page
-title: "How I installed an usb wifi adapter on Linux"
+title: "How I installed a USB Wi-Fi adapter on Linux"
 permalink: /diary
 
-How I installed an usb wifi adapter on Linux
+How I installed a USB wifi adapter on Linux
