@@ -14,4 +14,5 @@ Here’s how I finally got it to work:
 To ensure the system would connect to a static IP upon startup, I created a service to run a shell script.
 In the end, the MintBox has become a perfect Linux server for my needs.
 
+| <img src=https://github.com/white-hf/blog/blob/main/img/linux_netwok.png width=30% /> | <img src=https://github.com/white-hf/blog/blob/main/img/MintBox.jpg width=30% />
 
