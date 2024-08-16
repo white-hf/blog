@@ -2,7 +2,7 @@ This article documents how I installed a USB Wi-Fi adapter on a MintBox running 
 I purchased a used MintBox to use as a Linux server for development. Unfortunately, it could only access the internet via a network cable because the previous owner had lost the antennas. To solve this, I bought a USB Wi-Fi adapter on Temu for $10. However, as the saying goes, "cheap things aren’t always cheap"—the driver code provided was outdated and couldn’t be compiled on the newer kernel.
 
 Here’s how I finally got it to work:
-- I found an alternative driver on GitHub, which worked perfectly. You can find it [here](http://https://github.com/gglluukk/rtl8188eus "here"), which works perfectly.
+- I found an alternative driver on GitHub, which worked perfectly. You can find it [here](http://https://github.com/gglluukk/rtl8188eus "here").
 - I configured the Wi-Fi using the following Linux commands:
   1. Check the network devices: "ifconfig -a"
   2. Enable the wireless network card: "ifconfig yours up"
